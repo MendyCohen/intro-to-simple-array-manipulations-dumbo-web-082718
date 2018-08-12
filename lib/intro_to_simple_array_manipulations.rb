@@ -24,7 +24,7 @@ end
 
 def using_concat(array1, array2)
    arr = array1 + array2
-   arr += 1
+   arr += "blue"
 end
 
 def using_insert(array, element)
